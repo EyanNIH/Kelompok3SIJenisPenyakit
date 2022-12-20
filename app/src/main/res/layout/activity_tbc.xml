@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TBC">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/bg_bottom_menu"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="70dp"
+        android:text="TUBERKULOSIS"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Tuberkulosis adalah penyakit infeksi saluran pernapasan yang disebabkan oleh bakteri basil. Bakteri basil yang menginfeksi adalah bakteri basil yang sangat kuat. Akibtanya, akan membutuhkan waktu yang lama untuk mengobati penyakit ini. Bakteri ini 90% cenderung menginfeksi paru-paru jika dibandingkan dengan organ-organ  lainnya pada tubuh manusia. Penyakit ini biasanya ditandai dengan batuk terus menerus. Penularan : TBC adalah penyakit yang menyerang pernapasan. Maka penularannya pun melalui pernapasan. Berdekatan dengan penderita TBC dapat memungkinkan kita untuk tertular. Selain itu, ketika penderita TBC batuk pun, bisa jadi itu merupakan  sarana penularan TBC. Selain itu, penggunaan barang pribadi secara bergantian dengan penderita TBC aktif, seperti gelas dan sendok pun dapat menjadi jembatan penularan TBC. Cara Pencegahan : Mengurangi kotak dengan penderita TBC aktif. Jika akan kontak pun, gunakanlah masker untuk melindungi pernapasan kita. Serta hindari penggunaan barang pribadi yang bergantian dengan penderita TBC aktif. Pemberian Vaksin BCG (diberikan pada saat balita) Menjaga pola hidup yang baik dengan asupan makanan yang bergizi dan olah raga teratur."/>
+
+</RelativeLayout>

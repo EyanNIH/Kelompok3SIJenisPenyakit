@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Malaria">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/bg_bottom_menu"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="70dp"
+        android:text="MALARIA"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Malaria adalah penyakit yang disebabkan oleh infeksi parasit plasmodium. Parasit ini dibawa dan disebarkan oleh nyamuk anopheles. Penderita akan mengalami demam tinggi, menggigil, nyeri bagian tubuh serta mual hingga muntah-muntah. Penularan : Melalui nyamuk anopheles. Cara Pencegahan : Menghindari gigitan nyamuk dengan berbagai cara. Memakai pakaian panjang, atau menggunakan kelambu jika berada di rumah. Konsultasikan dahulu dengan dokter sebelum bepergian ke daerah yang marak terjadi malaria."/>
+
+</RelativeLayout>

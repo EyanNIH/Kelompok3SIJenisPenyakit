@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Kelompok3</string>
+    <string name="name_penyakit">Jenis Penyakit Menular</string>
+    <string name="description">Deskripsi Penyakit Menular</string>
+
+    <string-array name="data_name">
+        <item>Influenza</item>
+        <item>Tuberkulosis (TBC)</item>
+        <item>Muntaber</item>
+        <item>Tifus</item>
+        <item>Pneumonia</item>
+        <item>Hepatitis</item>
+        <item>Demam Berdarah Dengue (DBD)</item>
+        <item>Malaria</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Influenza atau yang lebih umum dikenal dengan flu adalah penyakit menular yang paling
+            umum diderita oleh orang-orang. Influenza ini disebabkan oleh virus. Virus influenza adalah
+            virus yang setiap waktunya bermutasi, sehingga sistem imunitas tubuh sulit mendeteksi virus
+            yang satu ini. Karena sulitnya sistem imun tubuh mendeteksi virus influenza ini, maka tubuh
+            cenderung lebih mudah terkena flu. Bahkan tubuh dapat beberapa kali terkena flu dalam waktu yang berdekatan.
+        Penularan : Flu dapat ditularkan melalui sistem pernapasan juga melalui air ludah. Maka
+            jika kita berdekatan dengan orang yang sedang flu, kemungkinan kita tertular flu sangatlah besar.
+            Perantara udara adalah media penularan flu yang paling cepat.
+        Cara Pencegahan : Menjaga daya tahan tubuh agar tidak mudah terserang virus. Misalnya dengan
+            makan teratur, istirahat yang cukup, minum air putih sesuai kebutuhan, berolah raga, dan
+            memiliki gaya hidup yang sehat.Selain itu, menjaga daya tahan tubuh juga dapat juga didukung dengan
+            asupan vitamin terutama Vitamin C yang bisa didapatkan di buah-buahan maupun vitamin yang dijual di toko-toko.
+            Pencegahan lainnya adalah dengan menggunakan masker ditempat umum, terutama bagi yang menderita influenza.</item>
+        <item>Tuberkulosis adalah penyakit infeksi saluran pernapasan yang disebabkan oleh bakteri basil. Bakteri basil
+            yang menginfeksi adalah bakteri basil yang sangat kuat. Akibtanya, akan membutuhkan waktu yang lama untuk
+            mengobati penyakit ini. Bakteri ini 90% cenderung menginfeksi paru-paru jika dibandingkan dengan organ-organ
+            lainnya pada tubuh manusia. Penyakit ini biasanya ditandai dengan batuk terus menerus.
+        Penularan : TBC adalah penyakit yang menyerang pernapasan. Maka penularannya pun melalui pernapasan.
+            Berdekatan dengan penderita TBC dapat memungkinkan kita untuk tertular. Selain itu, ketika penderita
+            TBC batuk pun, bisa jadi itu merupakan  sarana penularan TBC. Selain itu, penggunaan barang pribadi secara
+            bergantian dengan penderita TBC aktif, seperti gelas dan sendok pun dapat menjadi jembatan penularan TBC.
+        Cara Pencegahan : Mengurangi kotak dengan penderita TBC aktif. Jika akan kontak pun, gunakanlah masker
+            untuk melindungi pernapasan kita. Serta hindari penggunaan barang pribadi yang bergantian dengan penderita
+            TBC aktif. Pemberian Vaksin BCG (diberikan pada saat balita) Menjaga pola hidup yang baik dengan asupan
+            makanan yang bergizi dan olah raga teratur.</item>
+        <item>Muntaber adalah penyakit peradangan usus yang disebabkan oleh virus, bakteri, ataupun parasit lain
+            seperti jamur, protozoa dan cacing. Selain karena itu, muntaber juga dapat disebabkan oleh keracunan makanan
+            atau minuman yang mengandung bakteri atau zat kimia.  Bakteri yang biasanya merupakan penyebab dari muntaber
+            adalah bakteri Escherichia Coli. Kondisi lingkungan, terutama sanitasi air yang tidak bersih merupakan salah
+            satu faktor besar dalam penyebaran penyakit ini.
+        Penularan : Melalui cairan dari mulut (muntah) yang tidak dibersihkan dengan baik Melalui sisa kotoran yang menyebar
+            di air yang dgunakan Melalui saluran air. Terutama jika sanitasi air di lingkungan sekitar masih buruk.
+            Lingkungan yang tidak bersih atau sedang dalam kondisi seperti banjir yang tidak memungkinkan memiliki air bersih.
+        Cara Pencegahan : Menjaga asupan makanan yang dikonsumsi secara cukup dan seimbang Penggunaan air bersih untuk kegiatan
+            sehari-hari terutama air minum Mencuci tangan secara teratur untuk menghindari bakteri menempel pada tangan.
+            Terutama sebelum dan setelah makan Menjaga kebersihan rumah dan lingkungan sekitar Membuang tinja pada tempatnya
+            dan membersihkan dengan baik Mencuci seluruh bahan makanan sebelum masuk proses pemasakan Menjaga kebersihan peralatan
+            makan dan minum</item>
+        <item>Tifus adalah penyakit infeksi pada usus halus yang disebabkan oleh bakteri salmonella.Biasanya ditandai dengan
+            demam yang suhunya naik secara bertahap hingga membuat pendeita menggigil. Biasanya demam terjadi di malam hari dan
+            mereda, kemudian akan naik lagi di malam berikutnya. Gejala yang lain dapat berupa  sakit kepala, sakit di bagian perut,
+            denyut jantung menurun, sampai kehilangan nafsu makan.
+        Penularan : Melalui makanan yang tercemar bakteri salmonella. Ini bisa terjadi karena sumber makanan yang tidak sehat
+            ataupun pembersihan yang tidak baik sebelum bahan makanan tersebut dimakan. Bahkan pada sebagian kasus, ada yang
+            disebabkan menempelnya lalat pada makanan yang sebelumnya hinggap di tinja atau kotoran milik penderita tifus.
+            Akhirnya lalat tersebut menjadi perantara penularan tifus. Melalui tangan dan kuku yang tidak bersih, sehingga tanpa
+            kita sadari bakteri salmonella yang bisa saja terdapat pada tangan dan kuku kita masuk ke dalam mulut. Melalui air yang
+            digunakan untuk minum atau mencuci piring dan gelas dan peralatan makan lainnya. Untuk itulah beberapa ahli mengatakan
+            bahwa bahaya air minum isi ulang wajib diwaspadai. Melalui kulit. Bakteri ini dapat masuk lewat kulit yang terkoyak
+            akibat luka. Bisa luka bekas operasi, terjauth, atau luka lainnya. Tifus juga dapat menular melalui lingkungan yang tidak bersih.
+        Cara Pencegahan : Memastikan kebersihan bahan makanan sebelum memasaknya Mencuci tangan secara teratur, terutama sebelum
+            dan setelah makan. Membersihkan luka dan segera mengobatinya. Hindari jajan di pinggir jalan yang terlihat tidak higienis.
+            Menjaga daya tahan tubuh. Memakan makanan untuk penyakit tifus.</item>
+        <item>Pneumonia atau radang paru-paru adalah suatu peradangan yang disebabkan oleh bakteri, virus, maupun parasit lainnya.
+            Peradangan terjadi pada pulmonary alveolus (alveoli) yang seharusnya bertugas untuk menyerap oksigen dari atmosfer.
+            Akan tetapi karena terjadinya peradangan, organ ini menjadi terisi cairan sehinggapenyerapan oksigen terganggu dan
+            menyebabkan sulit bernapas. Gejalanya dmulai dari demam, batuk, hingga mengalami kesulitan bernapas.
+        Penularan : Melalui udara yang tercemar oleh bakteri, virus, atau parasit penyebab pneumonia. Begitu juga udara yang
+            terpapar penyebab pneumonia yang berasal dari penderita.
+        Cara Pencegahan : Mengenakan masker atau pelindung pernapasan apabila dekat dengan sumber risiko penularan pneumonia.
+            Menjaga daya tahan tubuh agar tetap kuat melawan semua virus atau bakteri yang masuk ke dalam tubuh.</item>
+        <item>Hepatitis adalah penyakit menularyang menyerang organ hati pada manusia. Disebabkan oleh bakteri serta virus dan
+            tidak bersihnya lingkungan sekitar, sehingga menginfeksi hati dan terjadi peradangan.
+        Penularan : Penularan melalui oral atau masuknya penyebab hepatitis ke dalam saluran pencernaan melalui makanan atau minuman.
+            Melalui cairan tubuh seperti ludah. Melalui kulit, seperti pemakaian jarum suntik bekas, alat tattoo, atau jarum
+            akupuntur bekas penderita. Pemakaian barang pribadi bersamaan, seperti pakaian, dan peralatan makan.
+        Cara Pencegahan : Menjaga kebersihan makanan dan minuman yang masuk ke dalam tubuh. Hindari pertukaran cairan tubuh,
+            seperti ludah atau transfusi darah yang belum jelas apakah telah bebas penyakit atau tidak. Hindari pemakaian barang
+            pribadi bersamaan seperti pakaian, alat makan, dan sikat gigi dengan penderita hepatitis. Pastikan anda menggunakan
+            jarum baru ketika melakukan transfusi darah ataupun melakukan akupuntur.</item>
+        <item>DBD adalah penyakit menular yang disebabkan oleh virus dengue yang dibawa oleh nyamuk Aedes aegeypti Betina.
+            Gejala yang umum terjadi adalah demam tinggi pada beberapa hari, sakit pada persendian, munculnya bintik-bintik merah,
+            turunnya trombosit secara drastis, dan bisa terjadi pendarahan.
+        Penularan : Ditularkan melalui gigitan nyamuk betina Aedes aegepty betina.
+        Cara Pencegahan : Membersihkan genangan air di sekitar rumah agar terbebas dari nyamuk Aedes aegepty. Menutup tempat-tempat
+            penyimpanan air. Menguras bak mandi minimal satu minggu sekali Membersihkan pekarangan rumah dari barang-barang bekas
+            yang berpotensi sebagai tempat perkembangan jentik nyamuk.</item>
+        <item>Malaria adalah penyakit yang disebabkan oleh infeksi parasit plasmodium. Parasit ini dibawa dan disebarkan oleh
+            nyamuk anopheles. Penderita akan mengalami demam tinggi, menggigil, nyeri bagian tubuh serta mual hingga muntah-muntah.
+        Penularan : Melalui nyamuk anopheles.
+        Cara Pencegahan : Menghindari gigitan nyamuk dengan berbagai cara. Memakai pakaian panjang, atau menggunakan kelambu
+            jika berada di rumah. Konsultasikan dahulu dengan dokter sebelum bepergian ke daerah yang marak terjadi malaria.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/flu</item>
+        <item>@drawable/tbc</item>
+        <item>@drawable/muntaber</item>
+        <item>@drawable/tifus</item>
+        <item>@drawable/pneumonia</item>
+        <item>@drawable/hepatitis</item>
+        <item>@drawable/dbd</item>
+        <item>@drawable/malaria</item>
+    </array>
+    <string name="title_activity_maps_api">MapsActivityApi</string>
+</resources>

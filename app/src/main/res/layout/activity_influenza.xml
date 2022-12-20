@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Influenza">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/bg_bottom_menu"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="70dp"
+        android:text="INFLUENZA"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Influenza atau yang lebih umum dikenal dengan flu adalah penyakit menular yang pa virus yang setiap waktunya bermutasi, sehingga sistem imunitas tubuh sulit mendeteksi virus yang satu ini. Karena sulitnya sistem imun tubuh mendeteksi virus influenza ini, maka tubuh  cenderung lebih mudah terkena flu. Bahkan tubuh dapat beberapa kali terkena flu dalam waktu yang berdekatan.
+        Penularan : Flu dapat ditularkan melalui sistem pernapasan juga melalui air ludah. Maka jika kita berdekatan dengan orang yang sedang flu, kemungkinan kita tertular flu sangatlah besar. Perantara udara adalah media penularan flu yang paling cepat. Cara Pencegahan : Menjaga daya tahan tubuh agar tidak mudah terserang virus. Misalnya dengan makan teratur, istirahat yang cukup, minum air putih sesuai kebutuhan, berolah raga, dan memiliki gaya hidup yang sehat.Selain itu, menjaga daya tahan tubuh juga dapat juga didukung dengan
+ asupan vitamin terutama Vitamin C yang bisa didapatkan di buah-buahan maupun vitamin yang dijual di toko-toko. Pencegahan lainnya adalah dengan menggunakan masker ditempat umum, terutama bagi yang menderita influenza."/>
+
+</RelativeLayout>

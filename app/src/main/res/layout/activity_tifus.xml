@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tifus">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/bg_bottom_menu"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="70dp"
+        android:text="TIFUS"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Tifus adalah penyakit infeksi pada usus halus yang disebabkan oleh bakteri salmonella. Biasanya ditandai dengan demam yang suhunya naik secara bertahap hingga membuat pendeita menggigil. Biasanya demam terjadi di malam hari dan mereda, kemudian akan naik lagi di malam berikutnya. Gejala yang lain dapat berupa  sakit kepala, sakit di bagian perut, denyut jantung menurun, sampai kehilangan nafsu makan. Penularan : Melalui makanan yang tercemar bakteri salmonella. Ini bisa terjadi karena sumber makanan yang tidak sehat ataupun pembersihan yang tidak baik sebelum bahan makanan tersebut dimakan. Bahkan pada sebagian kasus, ada yang disebabkan menempelnya lalat pada makanan yang sebelumnya hinggap di tinja atau kotoran milik penderita tifus. Akhirnya lalat tersebut menjadi perantara penularan tifus. Cara Pencegahan : Memastikan kebersihan bahan makanan sebelum memasaknya Mencuci tangan secara teratur, terutama sebelum dan setelah makan. Membersihkan luka dan segera mengobatinya. Hindari jajan di pinggir jalan yang terlihat tidak higienis. Menjaga daya tahan tubuh. Memakan makanan untuk penyakit tifus."/>
+
+</RelativeLayout>

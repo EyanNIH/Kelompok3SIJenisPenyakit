@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hepatitis">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/bg_bottom_menu"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_margin="70dp"
+        android:text="HEPATITIS"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:justificationMode="inter_word"
+        android:fontFamily="monospace"
+        android:text="Hepatitis adalah penyakit menularyang menyerang organ hati pada manusia. Disebabkan oleh bakteri serta virus dan tidak bersihnya lingkungan sekitar, sehingga menginfeksi hati dan terjadi peradangan. Penularan : Penularan melalui oral atau masuknya penyebab hepatitis ke dalam saluran pencernaan melalui makanan atau minuman. Melalui cairan tubuh seperti ludah. Melalui kulit, seperti pemakaian jarum suntik bekas, alat tattoo, atau jarum akupuntur bekas penderita. Pemakaian barang pribadi bersamaan, seperti pakaian, dan peralatan makan. Cara Pencegahan : Menjaga kebersihan makanan dan minuman yang masuk ke dalam tubuh. Hindari pertukaran cairan tubuh, seperti ludah atau transfusi darah yang belum jelas apakah telah bebas penyakit atau tidak. Hindari pemakaian barang pribadi bersamaan seperti pakaian, alat makan, dan sikat gigi dengan penderita hepatitis. Pastikan anda menggunakan jarum baru ketika melakukan transfusi darah ataupun melakukan akupuntur."/>
+
+</RelativeLayout>
